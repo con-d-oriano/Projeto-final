@@ -83,5 +83,21 @@ p{
     background-size:cover ;
     position: relative;
     margin: 0  ;
-    shape-image-threshold: initial;
+}
+/*---- sesh n bones ----*/
+.sesh{  
+    width: 100%;
+    min-height: 100vh;
+    margin:auto;
+    text-align: center;
+    margin-top: 100px;
+    background-image: url(imagens/a0c9b6ac7b9728330ceff8d102502bb9.jpg);
+    background-size:initial;
+}
+h1{
+    color:purple;
+}
+
+p{
+    
 }
