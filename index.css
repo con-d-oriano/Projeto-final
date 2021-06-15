@@ -90,14 +90,11 @@ p{
     min-height: 100vh;
     margin:auto;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 0px;
     background-image: url(imagens/a0c9b6ac7b9728330ceff8d102502bb9.jpg);
     background-size:initial;
 }
 h1{
-    color:purple;
+    color:rgb(12, 108, 235);
 }
 
-p{
-    
-}
